@@ -5,11 +5,6 @@ Um Projeto desenvolvido na #ImersãoFrontEnd promovido pela ALURA.COM nos dias 2
 ![Maintainer](https://img.shields.io/badge/License-MIT-orange)
 
 <br>
-<p align="center">
-  <a href="#tecnologias">Tecnologias</a> |
-  <a href="#páginas">Páginas</a>
-</p>
-
 <br>
 
 # Tecnologias
@@ -22,10 +17,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <!--JavaScript--><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a><br>
 </p>
 
+<br>
+<br>
 
-# Páginas 
+# Página 
 
-![image](https://github.com/alencarfbitalo/spotify-imersao/tree/main/src/assets/readme/img1.jpg)
+<img src="src/assets/readme/img1.jpg)">
 
 
 
