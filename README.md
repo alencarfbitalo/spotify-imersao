@@ -17,13 +17,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <!--JavaScript--><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a><br>
 </p>
 
-<br>
-<br>
-
-# Página 
-
-<img src="spotify-imersao/src/assets/readme
-/img1.jpg)">
 
 
 
