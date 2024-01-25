@@ -22,7 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 # Página 
 
-<img src="src/assets/readme/img1.jpg)">
+<img src="spotify-imersao/src/assets/readme
+/img1.jpg)">
 
 
 
